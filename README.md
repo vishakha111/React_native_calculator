@@ -1,2 +1,2 @@
 # React_native_calculator
-Calculator
+Reactjs,expo,javascript
